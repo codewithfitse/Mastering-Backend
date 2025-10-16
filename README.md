@@ -41,18 +41,13 @@ This roadmap helps you:
 
 * 🟨 JavaScript (Node.js)
 * 🐍 Python
-* 🦫 Go
-* ☕ Java
 
 **Frameworks**
 
 * Express.js
-* Django / FastAPI
-* Spring Boot
 
 **Databases**
 
-* PostgreSQL / MySQL
 * MongoDB
 * Redis
 
@@ -92,7 +87,7 @@ This roadmap helps you:
 
 **Learn:**
 
-* SQL & NoSQL databases
+* NoSQL databases
 * ORM (Sequelize / Mongoose)
 * Authentication (JWT, sessions)
 * Error handling
