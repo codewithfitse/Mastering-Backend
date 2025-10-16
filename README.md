@@ -142,6 +142,31 @@ This roadmap helps you:
 
 ---
 
+backend-roadmap/
+│
+├── beginner/
+│   ├── rest-api/
+│   ├── todo-api/
+│   └── book-manager/
+│
+├── intermediate/
+│   ├── auth-system/
+│   ├── ecommerce-api/
+│   └── notification-service/
+│
+├── advanced/
+│   ├── blog-platform/
+│   ├── payment-gateway/
+│   └── job-queue/
+│
+└── expert/
+    ├── ride-sharing/
+    ├── fintech-platform/
+    └── social-media-microservices/
+
+
+---
+
 ## 🧠 Additional Resources
 
 * 📘 [Backend Developer Roadmap (roadmap.sh)](https://roadmap.sh/backend)
